@@ -1,0 +1,12 @@
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\ServerSakila.dll.config
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\ServerSakila.dll
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\ServerSakila.pdb
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\EntityFramework.dll
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\EntityFramework.xml
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.csprojAssemblyReference.cache
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.csproj.CoreCompileInputs.cache
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.csproj.CopyComplete
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.dll
+C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.pdb

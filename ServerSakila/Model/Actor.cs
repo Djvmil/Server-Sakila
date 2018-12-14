@@ -12,15 +12,15 @@ namespace ServeurSakila.Model
     public class Actor
     {
         [DataMember]
-        public int Actor_ID { get; set; }
+        public int ActorId { get; set; }
 
         [DataMember]
-        public String First_Name { get; set; }
+        public String FirstName { get; set; }
 
         [DataMember]
-        public String Last_Name { get; set; }
+        public String LastName { get; set; }
        
         [DataMember]
-        public DateTime Last_Update { get; set; }
+        public DateTime LastUpdate { get; set; }
     }
 }
