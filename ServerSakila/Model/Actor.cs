@@ -6,19 +6,19 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Web;
 
-namespace ServeurSakila.Model
+namespace ServerSakila.Model
 {
     [DataContract]
-    public class Actor
+    public class Actor 
     {
         [DataMember]
-        public int ActorId { get; set; }
+        public int Id { get; set; }
 
         [DataMember]
-        public String FirstName { get; set; }
+        public string FirstName { get; set; }
 
         [DataMember]
-        public String LastName { get; set; }
+        public string LastName { get; set; }
        
         [DataMember]
         public DateTime LastUpdate { get; set; }

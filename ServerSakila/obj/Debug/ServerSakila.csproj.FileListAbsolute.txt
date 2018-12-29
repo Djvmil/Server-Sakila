@@ -10,3 +10,15 @@ C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\Serve
 C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.csproj.CopyComplete
 C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.dll
 C:\Users\ndiem\Desktop\C#\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.pdb
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.csprojAssemblyReference.cache
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.csproj.CoreCompileInputs.cache
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.dll
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.pdb
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\ServerSakila.dll.config
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\ServerSakila.dll
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\ServerSakila.pdb
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\EntityFramework.dll
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\EntityFramework.xml
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Pape Sidy Cisse\Desktop\ProjetSakila\ServerSakila\ServerSakila\obj\Debug\ServerSakila.csproj.CopyComplete

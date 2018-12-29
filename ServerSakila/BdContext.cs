@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Data.Entity;
-using ServeurSakila.Model;
+using ServerSakila.Model;
 
 namespace ServerSakila
 {
@@ -18,6 +18,7 @@ namespace ServerSakila
         public DbSet<Customer> Customers { get; set; }
         public DbSet<Film> Films { get; set; }
         public DbSet<Film_Actor> Film_Actors { get; set; }
+        public DbSet<Film_Category> film_Categories { get; set; }
         public DbSet<Inventory> Inventories { get; set; }
         public DbSet<Language> Languages { get; set; }
         public DbSet<Payment> Payments { get; set; }
